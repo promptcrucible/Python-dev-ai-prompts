@@ -164,8 +164,8 @@ Provide:
 The formatted PDF version of all 10 free prompts — clean layout,
 print-ready, easy to reference while coding.
 
-**→ [Download the free PDF here](https://app.kit.com/promptcrucible)**
-*(Enter your email — instant delivery, no spam)*
+**→ [Download the free PDF here](https://prompt-crucible.kit.com)**
+*(Enter your email — instant delivery, no spam)* 
 
 ---
 
