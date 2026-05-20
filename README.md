@@ -164,7 +164,7 @@ Provide:
 The formatted PDF version of all 10 free prompts — clean layout,
 print-ready, easy to reference while coding.
 
-**→ [Download the free PDF here](https://github.com/promptcrucible/Python-dev-ai-prompts/blob/main/PromptCrucible_10_Free_Prompts.pdf)**
+**→ [Download the free PDF here](https://github.com/promptcrucible/Python-dev-ai-prompts/raw/main/PromptCrucible_10_Free_Prompts.pdf)**
 *(Enter your email — instant delivery, no spam)*
 
 ---
